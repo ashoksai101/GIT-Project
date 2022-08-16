@@ -1,2 +1,3 @@
 Index file
 Index file changes1
+index file changes2
